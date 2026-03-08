@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, sou a Isabella
 
-<!--
-**isabellatrevisan/IsabellaTrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Sistemas** pela Etec
+💻 Iniciando minha jornada no mundo da programação e tecnologia do zero
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- Apaixonado por aprender e aplicar novos conhecimentos em tecnologia  
+- Explorando conceitos de **desenvolvimento web** e **design ux/ui**  
+- Buscando evoluir constantemente e contribuir com projetos práticos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- **Java, Python e JavaScript**  
+- **HTML, CSS** e fundamentos de **Banco de Dados**  
+- Princípios de versionamento com **Git e GitHub**  
+
+## Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-trevisan/)
